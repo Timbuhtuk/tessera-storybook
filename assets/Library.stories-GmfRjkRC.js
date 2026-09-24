@@ -1,8 +1,0 @@
-import{j as a}from"./jsx-runtime-u17CrQMm.js";import"./WindowsControlGallery-B_EK7dhA.js";import{L as o,E as n}from"./HomePage-BjTNC9Yd.js";import"./EditorToolWindow-fmHo7jG2.js";import"./EditorWorkspace-B0KxpJW2.js";import"./StandaloneWorkspaces-C4SeMBV6.js";import"./ColorReplaceDialog-B8yl3uRV.js";import"./iframe-DskY2-KD.js";import"./preload-helper-PPVm8Dsz.js";import"./WorkbenchControls-B7NOf1ZZ.js";const{fn:i}=__STORYBOOK_MODULE_TEST__,x={title:"02 Components/Library card",component:o,tags:["autodocs"],args:{image:"./assets/landscape.png",fileName:"landscape.png",width:384,height:256,results:4,onOpen:i()},decorators:[t=>a.jsx("div",{style:{width:420},children:a.jsx(t,{})})],parameters:{docs:{description:{component:"The whole card is a keyboard-accessible button. The image uses contain fitting and nearest-neighbor sampling."}}}},e={},r={args:{fileName:"landscape-with-a-long-versioned-file-name-for-export.png",results:0}},s={render:()=>a.jsx(n,{})},E=["WithResults","LongFileName","EmptyState"];e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:"{}",...e.parameters?.docs?.source}}};r.parameters={...r.parameters,docs:{...r.parameters?.docs,source:{originalSource:`{
-  args: {
-    fileName: 'landscape-with-a-long-versioned-file-name-for-export.png',
-    results: 0
-  }
-}`,...r.parameters?.docs?.source}}};s.parameters={...s.parameters,docs:{...s.parameters?.docs,source:{originalSource:`{
-  render: () => <EmptyLibrary />
-}`,...s.parameters?.docs?.source}}};export{s as EmptyState,r as LongFileName,e as WithResults,E as __namedExportsOrder,x as default};
