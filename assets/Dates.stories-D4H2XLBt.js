@@ -1,3 +1,0 @@
-import{C as o}from"./ControlGallery-PLkS2jBb.js";import"./jsx-runtime-u17CrQMm.js";import"./iframe-D8ONQbMf.js";import"./preload-helper-PPVm8Dsz.js";const n={title:"02 Components/Dates/Calendar",component:o,tags:["autodocs"],args:{group:"dates"},parameters:{layout:"fullscreen",controls:{exclude:["group"]},docs:{description:{component:"Выбор даты в поле и календаре."}}}},e={name:"Обзор"},c=["Overview"];e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`{
-  name: 'Обзор'
-}`,...e.parameters?.docs?.source}}};export{e as Overview,c as __namedExportsOrder,n as default};

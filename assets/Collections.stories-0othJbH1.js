@@ -1,0 +1,3 @@
+import{C as e}from"./ControlGallery-yvlevW4V.js";import"./jsx-runtime-u17CrQMm.js";import"./iframe-Dz8yKLuy.js";import"./preload-helper-PPVm8Dsz.js";const n={title:"02 Components/Data/Collections",component:e,tags:["autodocs"],args:{group:"collections"},parameters:{layout:"fullscreen",controls:{exclude:["group"]},docs:{description:{component:"Списки, таблица и дерево данных."}}}},o={name:"Обзор"},c=["Overview"];o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:`{
+  name: 'Обзор'
+}`,...o.parameters?.docs?.source}}};export{o as Overview,c as __namedExportsOrder,n as default};
