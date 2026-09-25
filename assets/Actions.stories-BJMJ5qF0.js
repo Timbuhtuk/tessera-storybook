@@ -1,3 +1,0 @@
-import{C as r}from"./ControlGallery-CljmR_jS.js";import"./jsx-runtime-u17CrQMm.js";import"./iframe-DZtHNNb1.js";import"./preload-helper-PPVm8Dsz.js";import"./TesseraScrollArea-BngJWlN9.js";const c={title:"02 Components/Actions/Controls",component:r,tags:["autodocs"],args:{group:"actions"},parameters:{layout:"fullscreen",controls:{exclude:["group"]},docs:{description:{component:"Кнопки, повторяемые действия, переключение и текстовые ссылки."}}}},o={name:"Обзор"},m=["Overview"];o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:`{
-  name: 'Обзор'
-}`,...o.parameters?.docs?.source}}};export{o as Overview,m as __namedExportsOrder,c as default};
