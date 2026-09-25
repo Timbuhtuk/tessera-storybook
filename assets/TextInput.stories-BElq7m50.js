@@ -1,0 +1,3 @@
+import{C as o}from"./ControlGallery-CljmR_jS.js";import"./jsx-runtime-u17CrQMm.js";import"./iframe-DZtHNNb1.js";import"./preload-helper-PPVm8Dsz.js";import"./TesseraScrollArea-BngJWlN9.js";const p={title:"02 Components/Text input/Fields",component:o,tags:["autodocs"],args:{group:"text"},parameters:{layout:"fullscreen",controls:{exclude:["group"]},docs:{description:{component:"Однострочный и многострочный ввод, пароль, поиск и проверка значения."}}}},e={name:"Обзор"},m=["Overview"];e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`{
+  name: 'Обзор'
+}`,...e.parameters?.docs?.source}}};export{e as Overview,m as __namedExportsOrder,p as default};

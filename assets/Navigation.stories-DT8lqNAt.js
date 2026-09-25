@@ -1,0 +1,3 @@
+import{C as e}from"./ControlGallery-CljmR_jS.js";import"./jsx-runtime-u17CrQMm.js";import"./iframe-DZtHNNb1.js";import"./preload-helper-PPVm8Dsz.js";import"./TesseraScrollArea-BngJWlN9.js";const m={title:"02 Components/Navigation/Menus and tabs",component:e,tags:["autodocs"],args:{group:"navigation"},parameters:{layout:"fullscreen",controls:{exclude:["group"]},docs:{description:{component:"Вкладки, меню, панель команд и контекстное меню."}}}},o={name:"Обзор"},p=["Overview"];o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:`{
+  name: 'Обзор'
+}`,...o.parameters?.docs?.source}}};export{o as Overview,p as __namedExportsOrder,m as default};
