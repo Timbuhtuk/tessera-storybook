@@ -1,3 +1,0 @@
-import{C as o}from"./ControlGallery-CqbPvftw.js";import"./jsx-runtime-u17CrQMm.js";import"./iframe-hNe2M4pi.js";import"./preload-helper-PPVm8Dsz.js";import"./TesseraScrollArea-BngJWlN9.js";import"./PrimitiveControls-CI21xiOq.js";const m={title:"02 Components/Selection/Choices",component:o,tags:["autodocs"],args:{group:"selection"},parameters:{layout:"fullscreen",controls:{exclude:["group"]},docs:{description:{component:"Флажки, радиокнопки, списки и выбор значения на шкале."}}}},e={name:"Обзор"},p=["Overview"];e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`{
-  name: 'Обзор'
-}`,...e.parameters?.docs?.source}}};export{e as Overview,p as __namedExportsOrder,m as default};

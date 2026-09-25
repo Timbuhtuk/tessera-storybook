@@ -1,0 +1,3 @@
+import{C as o}from"./ControlGallery-BTjni0um.js";import"./jsx-runtime-u17CrQMm.js";import"./iframe-B6BCAVW5.js";import"./preload-helper-PPVm8Dsz.js";import"./TesseraSwitchBox-CTRqZFEy.js";import"./TesseraScrollArea-BngJWlN9.js";import"./PrimitiveControls-D6qUM5Rd.js";const c={title:"02 Components/Feedback/Status and hints",component:o,tags:["autodocs"],args:{group:"feedback"},parameters:{layout:"fullscreen",controls:{exclude:["group"]},docs:{description:{component:"Индикаторы, строка состояния, подсказки и всплывающая панель."}}}},e={name:"Обзор"},u=["Overview"];e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`{
+  name: 'Обзор'
+}`,...e.parameters?.docs?.source}}};export{e as Overview,u as __namedExportsOrder,c as default};

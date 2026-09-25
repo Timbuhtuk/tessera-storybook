@@ -1,0 +1,3 @@
+import{C as r}from"./ControlGallery-BTjni0um.js";import"./jsx-runtime-u17CrQMm.js";import"./iframe-B6BCAVW5.js";import"./preload-helper-PPVm8Dsz.js";import"./TesseraSwitchBox-CTRqZFEy.js";import"./TesseraScrollArea-BngJWlN9.js";import"./PrimitiveControls-D6qUM5Rd.js";const c={title:"02 Components/Layout/Containers",component:r,tags:["autodocs"],args:{group:"layout"},parameters:{layout:"fullscreen",controls:{exclude:["group"]},docs:{description:{component:"Группы, раскрытие, прокрутка, размещение содержимого и диалог."}}}},o={name:"Обзор"},u=["Overview"];o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:`{
+  name: 'Обзор'
+}`,...o.parameters?.docs?.source}}};export{o as Overview,u as __namedExportsOrder,c as default};
