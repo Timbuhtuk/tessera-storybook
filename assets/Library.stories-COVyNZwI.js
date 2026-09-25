@@ -1,8 +1,0 @@
-import{j as s}from"./jsx-runtime-u17CrQMm.js";import"./ControlGallery-CBgV5AWH.js";import"./TesseraCarouselLoader-v-IRCYUy.js";import"./TesseraSwitchBox-CTRqZFEy.js";import"./TesseraScrollArea-BngJWlN9.js";import"./PrimitiveControls-Cp6ksDE6.js";import{L as o,E as i}from"./HomePage-CtsPLRW1.js";import"./EditorToolWindow-DWdpneks.js";import"./EditorWorkspace-DrOmVOBu.js";import"./StandaloneWorkspaces-D8uWhXMK.js";import"./ColorReplaceDialog-D0aZxTar.js";import"./iframe-CHv6OKKN.js";import"./preload-helper-PPVm8Dsz.js";import"./WorkbenchControls-DhEFkLJL.js";const{fn:n}=__STORYBOOK_MODULE_TEST__,_={title:"02 Components/Data/Library card",component:o,tags:["autodocs"],args:{image:"./assets/landscape.png",fileName:"landscape.png",width:384,height:256,results:4,onOpen:n()},decorators:[t=>s.jsx("div",{style:{width:420},children:s.jsx(t,{})})],parameters:{docs:{description:{component:"The whole card is a keyboard-accessible button. The image uses contain fitting and nearest-neighbor sampling."}}}},e={},r={args:{fileName:"landscape-with-a-long-versioned-file-name-for-export.png",results:0}},a={render:()=>s.jsx(i,{})},S=["WithResults","LongFileName","EmptyState"];e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:"{}",...e.parameters?.docs?.source}}};r.parameters={...r.parameters,docs:{...r.parameters?.docs,source:{originalSource:`{
-  args: {
-    fileName: 'landscape-with-a-long-versioned-file-name-for-export.png',
-    results: 0
-  }
-}`,...r.parameters?.docs?.source}}};a.parameters={...a.parameters,docs:{...a.parameters?.docs,source:{originalSource:`{
-  render: () => <EmptyLibrary />
-}`,...a.parameters?.docs?.source}}};export{a as EmptyState,r as LongFileName,e as WithResults,S as __namedExportsOrder,_ as default};
