@@ -1,0 +1,9 @@
+import{a,e as t,w as s}from"./elementThemes-CLG6AAb2.js";import{T as i}from"./ControlGallery-BbQDjNt6.js";import"./TesseraCarouselLoader-a2hs1RfB.js";import"./TesseraSquareLoader-CsdPxYVf.js";import"./TesseraBounceLoader-BPDPNxb7.js";import"./TesseraSwitchBox-CTRqZFEy.js";import"./TesseraRadioIsland-E3v2TZ1m.js";import"./TesseraScrollArea-BngJWlN9.js";import"./TesseraTooltip-B899w3zR.js";import"./TesseraImageFrame-CfCeuBZf.js";import"./PrimitiveControls-D7cOXaDt.js";import"./EmptyLibrary-vOfRQzvA.js";import"./jsx-runtime-u17CrQMm.js";import"./EditorToolWindow-CdgywAQl.js";import"./EditorWorkspace-CCuIVHgl.js";import"./iframe-BTeBj5Qa.js";import"./ColorReplaceDialog-BWz-dPEQ.js";import"./ThemeElements-DCpcXiP3.js";import"./LightWorkspace-DSSJUjn1.js";import"./DepthWorkspace-Bzd6oYt4.js";import"./preload-helper-PPVm8Dsz.js";const{fn:m}=__STORYBOOK_MODULE_TEST__,D={title:"03 Elements/Actions/Button",component:i,tags:["autodocs"],decorators:[s("dark")],args:{...t,children:"Open image…",variant:"secondary",onClick:m()},argTypes:{...a,variant:{control:"radio",options:["primary","secondary"]}},parameters:{layout:"fullscreen",docs:{description:{component:"Actions have visible text, a minimum 40 px target, hover border, keyboard focus, pressed and disabled states."}}}},r={},e={args:{variant:"primary"}},o={args:{disabled:!0}},w=["Secondary","Primary","Disabled"];r.parameters={...r.parameters,docs:{...r.parameters?.docs,source:{originalSource:"{}",...r.parameters?.docs?.source}}};e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`{
+  args: {
+    variant: 'primary'
+  }
+}`,...e.parameters?.docs?.source}}};o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:`{
+  args: {
+    disabled: true
+  }
+}`,...o.parameters?.docs?.source}}};export{o as Disabled,e as Primary,r as Secondary,w as __namedExportsOrder,D as default};
