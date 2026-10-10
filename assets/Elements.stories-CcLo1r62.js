@@ -1,3 +1,0 @@
-import{T as t}from"./ThemeElements-DGUr6B0c.js";/* empty css                   */import"./jsx-runtime-u17CrQMm.js";import"./iframe-Cfd6kAov.js";import"./preload-helper-PPVm8Dsz.js";const o={title:"02 Themes/Dark/Elements",component:t,parameters:{layout:"fullscreen",docs:{description:{component:"The same controls in the Division-inspired dark variant. Neutral surfaces and translucent panels carry the design; orange is limited to fine interaction signals and 1.5% of visible pixels."}}},args:{theme:"dark"}},e={name:"Interactive set"},m=["InteractiveSet"];e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`{
-  name: 'Interactive set'
-}`,...e.parameters?.docs?.source}}};export{e as InteractiveSet,m as __namedExportsOrder,o as default};

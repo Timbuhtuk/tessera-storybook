@@ -1,0 +1,3 @@
+import{T as t}from"./ThemeElements-BJ9cPqzh.js";/* empty css                   */import"./jsx-runtime-u17CrQMm.js";import"./iframe-BSezqzAL.js";import"./preload-helper-PPVm8Dsz.js";const m={title:"02 Themes/Light/Elements",component:t,parameters:{layout:"fullscreen",docs:{description:{component:"A warm monochrome element set inspired by NieR:Automata menus: paper surfaces, fine rules, compact rows and clear selection. The components share one API with the dark variant."}}},args:{theme:"light"}},e={name:"Interactive set"},c=["InteractiveSet"];e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`{
+  name: 'Interactive set'
+}`,...e.parameters?.docs?.source}}};export{e as InteractiveSet,c as __namedExportsOrder,m as default};
